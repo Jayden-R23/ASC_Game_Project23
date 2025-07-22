@@ -13,6 +13,8 @@ let myLeft, myRight, myTop, myBottom;
 let enemyLeft, enemyRight, enemyTop, enemyBottom;
 let redLeft, redRight, redTop, redBottom;
 
+// i'm trying to publish something ignore this
+
 // coordinates for some stuff
 
 
